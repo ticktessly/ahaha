@@ -8,9 +8,7 @@
     "ghcr.io/marcosbolanos/devcontainer-features/neovim-prebuilt:1": {
       "version": "stable"
     },
-    "ghcr.io/jsburckhardt/devcontainer-features/herdr:1": {
-      "version": "1.2.3"
-    },
+    "ghcr.io/ticktessly/herdr/herdr:latest": {},
     "ghcr.io/devcontainers/features/sshd:1": {}
   }
 }
