@@ -5,10 +5,6 @@
     "context": ".."
   },
   "features": {
-    "ghcr.io/marcosbolanos/devcontainer-features/neovim-prebuilt:1": {
-      "version": "stable"
-    },
-    "ghcr.io/ticktessly/herdr/herdr:latest": {},
     "ghcr.io/devcontainers/features/sshd:1": {}
   }
 }
